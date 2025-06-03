@@ -1,3 +1,6 @@
 [submodule "teste_submodulo_modulo_01"]
 	path = teste_submodulo_modulo_01
 	url = https://github.com/LucasEtica/TesteSubmodulo-Modulo_01.git
+[submodule "config"]
+	path = config
+	url = https://github.com/LucasEtica/TesteSubmodulo-Config-rails-01.git
